@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soulaymane Hamdane AKA Dexter 
-- 👀 I’m interested in HTML , CSS, JavaScript, c language and python
-- 🌱 I’m currently learning HTML and CSS 
+- 👀 I’m interested in HTML , CSS, JavaScript, C language and python
+- 🌱 I’m currently learning JAVASCRIPT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/S_hamdane ,   
     https://www.instagram.com/soulaymane_hamdane/ and 
