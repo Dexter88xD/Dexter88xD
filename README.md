@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soulaymane Hamdane AKA Dexter 
+- 👋 Hi, I’m Soulaiman Hamdan AKA Dexter 
 - 👀 I’m interested in HTML , CSS, JAVASCRIPT, C language and python
 - 🌱 I’m currently learning JAVASCRIPT 
 - 📫 How to reach me https://twitter.com/S_hamdane and soulaymanehamdan2@gmail.com
