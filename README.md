@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Soulaiman Hamdan AKA Dexter 
+- 👋 Hi, I’m Soulaiman Hamdan AKA Dexter The Wooden Spoon
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT, C language and python
-- 🌱 I’m currently learning JAVASCRIPT 
+- <!--🌱 I’m currently learning JAVASCRIPT -->
 - 📫 How to reach me https://twitter.com/HamdanSoulaiman and soulaymanehamdan2@gmail.com
 - <!--- - 💞️ I’m looking to collaborate on ... (this should be in the 4th line)--->
 <!---
